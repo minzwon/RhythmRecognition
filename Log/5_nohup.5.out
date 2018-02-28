@@ -1,0 +1,401 @@
+  0%|          | 0/4180 [00:00<?, ?it/s][wav @ 0x2dbdba0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[wav @ 0x2dbdba0] Encoder did not produce proper pts, making some up.
+  0%|          | 2/4180 [00:00<14:21,  4.85it/s][wav @ 0x2dbe400] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+  0%|          | 14/4180 [00:00<10:45,  6.46it/s][wav @ 0x2dbe400] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+  1%|          | 25/4180 [00:01<08:10,  8.48it/s][wav @ 0x2dbe400] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+  1%|          | 37/4180 [00:01<06:21, 10.85it/s][wav @ 0x2dbee40] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+  1%|1         | 50/4180 [00:02<05:07, 13.42it/s][wav @ 0x2dbee40] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+  1%|1         | 60/4180 [00:02<04:21, 15.75it/s][wav @ 0x2dbee40] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+  2%|1         | 73/4180 [00:02<03:42, 18.45it/s][wav @ 0x2dbee40] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+  2%|1         | 81/4180 [00:03<03:40, 18.62it/s][wav @ 0x2dbee40] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+  2%|2         | 86/4180 [00:03<04:19, 15.78it/s][wav @ 0x2dbee40] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+  2%|2         | 99/4180 [00:04<03:40, 18.52it/s][wav @ 0x2dbee40] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+  2%|2         | 104/4180 [00:04<04:15, 15.96it/s][wav @ 0x2dbee40] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+  3%|2         | 112/4180 [00:04<03:55, 17.26it/s][wav @ 0x2dbee40] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+  4%|3         | 150/4180 [00:05<02:55, 22.96it/s][wav @ 0x2dbee40] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+  4%|3         | 162/4180 [00:05<02:39, 25.19it/s][wav @ 0x2dbee40] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+  4%|4         | 176/4180 [00:05<02:22, 28.19it/s][wav @ 0x2dc0cc0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+  4%|4         | 188/4180 [00:06<02:15, 29.47it/s][wav @ 0x2dd5de0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+  5%|4         | 201/4180 [00:06<02:07, 31.19it/s][wav @ 0x2dd5de0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+  5%|5         | 211/4180 [00:07<02:15, 29.23it/s][wav @ 0x2dd5de0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+  5%|5         | 215/4180 [00:07<03:27, 19.14it/s][wav @ 0x2dd6880] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+  6%|5         | 230/4180 [00:07<02:57, 22.22it/s][wav @ 0x2dd6880] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+  6%|5         | 243/4180 [00:08<02:38, 24.81it/s][wav @ 0x2dd6880] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+  6%|5         | 247/4180 [00:08<03:43, 17.63it/s][wav @ 0x2dd6880] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+  6%|6         | 255/4180 [00:09<03:30, 18.61it/s][wav @ 0x2dd6880] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+  7%|6         | 280/4180 [00:09<02:45, 23.56it/s][wav @ 0x2dd6e60] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+  7%|6         | 284/4180 [00:09<03:53, 16.72it/s][wav @ 0x2dd80e0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+  7%|7         | 295/4180 [00:10<03:26, 18.77it/s][wav @ 0x2dd80e0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+  7%|7         | 300/4180 [00:10<03:57, 16.34it/s][wav @ 0x2dd9520] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+  7%|7         | 309/4180 [00:11<03:34, 18.05it/s][wav @ 0x2dd9520] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+  8%|7         | 334/4180 [00:11<02:46, 23.10it/s][wav @ 0x2dd9520] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+  8%|8         | 342/4180 [00:11<02:50, 22.55it/s][wav @ 0x2dd9520] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+  8%|8         | 354/4180 [00:12<02:32, 25.04it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+  9%|8         | 361/4180 [00:12<02:47, 22.74it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+  9%|9         | 384/4180 [00:12<02:15, 28.11it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+  9%|9         | 394/4180 [00:13<02:15, 27.86it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 10%|9         | 398/4180 [00:13<03:25, 18.43it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 10%|9         | 402/4180 [00:14<04:12, 14.97it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 10%|9         | 412/4180 [00:14<03:38, 17.22it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 10%|#         | 426/4180 [00:14<03:01, 20.71it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 11%|#         | 441/4180 [00:15<02:35, 23.99it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 11%|#         | 446/4180 [00:15<03:23, 18.38it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 11%|#         | 459/4180 [00:15<02:55, 21.24it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 11%|#1        | 469/4180 [00:16<02:47, 22.13it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 12%|#1        | 483/4180 [00:16<02:27, 25.04it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 12%|#2        | 511/4180 [00:17<01:58, 31.03it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 13%|#2        | 524/4180 [00:17<01:53, 32.23it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 13%|#2        | 535/4180 [00:17<01:57, 31.06it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 13%|#2        | 542/4180 [00:18<02:22, 25.51it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 13%|#3        | 551/4180 [00:18<02:29, 24.20it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 13%|#3        | 554/4180 [00:19<03:54, 15.48it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 13%|#3        | 557/4180 [00:19<05:11, 11.64it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 13%|#3        | 564/4180 [00:19<04:37, 13.03it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 14%|#3        | 572/4180 [00:20<04:07, 14.57it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 14%|#3        | 578/4180 [00:20<04:01, 14.92it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 14%|#3        | 581/4180 [00:21<05:15, 11.40it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 14%|#4        | 593/4180 [00:21<04:16, 13.96it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 14%|#4        | 605/4180 [00:21<03:37, 16.47it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 15%|#4        | 613/4180 [00:22<03:22, 17.60it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 15%|#4        | 625/4180 [00:22<02:54, 20.36it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 15%|#5        | 637/4180 [00:22<02:35, 22.85it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 15%|#5        | 646/4180 [00:23<02:36, 22.54it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 16%|#5        | 656/4180 [00:23<02:37, 22.45it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 16%|#5        | 666/4180 [00:24<02:28, 23.71it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 16%|#6        | 683/4180 [00:24<02:06, 27.70it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 16%|#6        | 689/4180 [00:24<02:32, 22.97it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 17%|#6        | 703/4180 [00:25<02:15, 25.68it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 17%|#6        | 709/4180 [00:25<02:50, 20.35it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 17%|#7        | 718/4180 [00:26<02:41, 21.49it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 17%|#7        | 730/4180 [00:26<02:28, 23.19it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 18%|#7        | 743/4180 [00:26<02:16, 25.26it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 18%|#7        | 747/4180 [00:27<03:08, 18.20it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 18%|#8        | 757/4180 [00:27<02:49, 20.21it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 19%|#8        | 792/4180 [00:28<02:08, 26.34it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 19%|#9        | 797/4180 [00:28<02:48, 20.10it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 19%|#9        | 808/4180 [00:28<02:33, 21.94it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 20%|#9        | 823/4180 [00:29<02:14, 25.04it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 20%|#9        | 827/4180 [00:29<03:16, 17.10it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 20%|##        | 838/4180 [00:30<02:51, 19.51it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 20%|##        | 841/4180 [00:30<04:00, 13.90it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 20%|##        | 844/4180 [00:30<04:44, 11.71it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 20%|##        | 852/4180 [00:31<04:06, 13.49it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 20%|##        | 854/4180 [00:31<05:52,  9.43it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 21%|##        | 863/4180 [00:31<04:49, 11.44it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 21%|##        | 874/4180 [00:32<04:00, 13.73it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 21%|##1       | 878/4180 [00:32<04:35, 11.99it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 21%|##1       | 896/4180 [00:33<03:32, 15.43it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 22%|##1       | 902/4180 [00:33<03:42, 14.72it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 22%|##1       | 911/4180 [00:34<03:18, 16.44it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 22%|##2       | 924/4180 [00:34<02:48, 19.27it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 22%|##2       | 934/4180 [00:34<02:33, 21.16it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 22%|##2       | 937/4180 [00:35<04:27, 12.14it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 23%|##2       | 944/4180 [00:35<03:57, 13.63it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 23%|##2       | 947/4180 [00:36<05:04, 10.63it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 23%|##3       | 962/4180 [00:36<03:57, 13.56it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 23%|##3       | 965/4180 [00:36<04:53, 10.96it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 23%|##3       | 967/4180 [00:37<06:18,  8.49it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 23%|##3       | 980/4180 [00:37<04:50, 11.02it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 24%|##3       | 985/4180 [00:37<04:30, 11.81it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 24%|##3       | 998/4180 [00:38<03:35, 14.77it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 24%|##4       | 1023/4180 [00:38<02:43, 19.30it/s][wav @ 0x2dd8ca0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 25%|##4       | 1027/4180 [00:39<03:29, 15.06it/s][wav @ 0x2d0a7c0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 25%|##4       | 1035/4180 [00:39<03:09, 16.56it/s][wav @ 0x2d0a7c0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 25%|##5       | 1045/4180 [00:39<02:51, 18.25it/s][wav @ 0x2d0a7c0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 25%|##5       | 1051/4180 [00:40<02:56, 17.69it/s][wav @ 0x2d0a7c0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 25%|##5       | 1062/4180 [00:40<02:36, 19.94it/s][wav @ 0x2d0a7c0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 26%|##5       | 1077/4180 [00:40<02:12, 23.37it/s][wav @ 0x2d0a7c0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 26%|##5       | 1085/4180 [00:41<02:18, 22.28it/s][wav @ 0x2d0a7c0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 26%|##6       | 1094/4180 [00:41<02:15, 22.76it/s][wav @ 0x2d0a7c0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 26%|##6       | 1103/4180 [00:42<02:15, 22.64it/s][wav @ 0x2d0a7c0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 27%|##6       | 1108/4180 [00:42<02:45, 18.54it/s][wav @ 0x2d0a7c0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 27%|##6       | 1116/4180 [00:42<02:41, 19.02it/s][wav @ 0x2d0a7c0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 27%|##7       | 1135/4180 [00:43<02:10, 23.42it/s][wav @ 0x2d0a7c0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 27%|##7       | 1143/4180 [00:43<02:15, 22.41it/s][wav @ 0x2d0ddc0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 27%|##7       | 1147/4180 [00:44<02:57, 17.09it/s][wav @ 0x2d0e820] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 28%|##7       | 1158/4180 [00:44<02:35, 19.41it/s][wav @ 0x2d0e820] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 28%|##7       | 1162/4180 [00:44<03:18, 15.23it/s][wav @ 0x2d0e820] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 28%|##7       | 1167/4180 [00:45<03:31, 14.28it/s][wav @ 0x2d0e820] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 28%|##8       | 1190/4180 [00:45<02:41, 18.57it/s][wav @ 0x2d0e820] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 29%|##8       | 1199/4180 [00:46<02:34, 19.31it/s][wav @ 0x2d0f240] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 29%|##8       | 1206/4180 [00:46<02:40, 18.53it/s][wav @ 0x2d10180] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 29%|##9       | 1215/4180 [00:46<02:31, 19.60it/s][wav @ 0x2d10180] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 29%|##9       | 1227/4180 [00:47<02:14, 22.00it/s][wav @ 0x2d10180] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 30%|##9       | 1234/4180 [00:47<02:22, 20.61it/s][wav @ 0x2d10ba0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 30%|###       | 1254/4180 [00:48<01:55, 25.24it/s][wav @ 0x2d10ba0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 30%|###       | 1260/4180 [00:48<02:16, 21.46it/s][wav @ 0x2d10ba0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 31%|###       | 1276/4180 [00:48<01:56, 24.97it/s][wav @ 0x2d10ba0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 31%|###       | 1284/4180 [00:49<02:07, 22.67it/s][wav @ 0x2d10ba0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 31%|###       | 1294/4180 [00:49<02:02, 23.65it/s][wav @ 0x2d10ba0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 31%|###1      | 1300/4180 [00:49<02:19, 20.59it/s][wav @ 0x2d10ba0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 31%|###1      | 1307/4180 [00:50<02:24, 19.93it/s][wav @ 0x2d10ba0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 31%|###1      | 1313/4180 [00:50<02:32, 18.80it/s][wav @ 0x2d10ba0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 32%|###1      | 1332/4180 [00:51<02:04, 22.92it/s][wav @ 0x2d10ba0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 32%|###2      | 1344/4180 [00:51<01:52, 25.20it/s][wav @ 0x2d10ba0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 32%|###2      | 1347/4180 [00:51<03:09, 14.96it/s][wav @ 0x2d10ba0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 33%|###2      | 1362/4180 [00:52<02:34, 18.23it/s][wav @ 0x2d10ba0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 33%|###2      | 1366/4180 [00:52<03:10, 14.75it/s][wav @ 0x2d10ba0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 33%|###2      | 1371/4180 [00:53<03:23, 13.80it/s][wav @ 0x2d10ba0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 33%|###3      | 1381/4180 [00:53<02:56, 15.84it/s][wav @ 0x2d10ba0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 34%|###3      | 1405/4180 [00:53<02:15, 20.50it/s][wav @ 0x2d10ba0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 34%|###3      | 1416/4180 [00:54<02:03, 22.40it/s][wav @ 0x2d10ba0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 34%|###4      | 1430/4180 [00:54<01:47, 25.53it/s][wav @ 0x2d10ba0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 34%|###4      | 1435/4180 [00:54<02:15, 20.32it/s][wav @ 0x2d10ba0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 34%|###4      | 1441/4180 [00:55<02:31, 18.08it/s][wav @ 0x2d10ba0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 35%|###4      | 1451/4180 [00:55<02:22, 19.19it/s][wav @ 0x2d10ba0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 35%|###5      | 1464/4180 [00:56<02:04, 21.85it/s][wav @ 0x2d10ba0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 35%|###5      | 1481/4180 [00:56<01:45, 25.55it/s][wav @ 0x2d10ba0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 36%|###5      | 1496/4180 [00:57<01:35, 28.10it/s][wav @ 0x2d10ba0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 36%|###6      | 1505/4180 [00:57<01:42, 26.18it/s][wav @ 0x2d10ba0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 36%|###6      | 1518/4180 [00:57<01:37, 27.44it/s][wav @ 0x2d10ba0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 37%|###6      | 1531/4180 [00:58<01:30, 29.24it/s][wav @ 0x2d10ba0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 37%|###7      | 1552/4180 [00:58<01:20, 32.70it/s][wav @ 0x2d10ba0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 37%|###7      | 1556/4180 [00:59<02:14, 19.48it/s][wav @ 0x2d18700] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 38%|###7      | 1574/4180 [00:59<01:51, 23.32it/s][wav @ 0x2d19d60] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 38%|###7      | 1583/4180 [00:59<01:49, 23.62it/s][wav @ 0x2d19d60] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 38%|###8      | 1594/4180 [01:00<01:46, 24.25it/s][wav @ 0x2d19d60] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 38%|###8      | 1600/4180 [01:00<02:06, 20.43it/s][wav @ 0x2d1ace0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 39%|###8      | 1613/4180 [01:01<01:51, 22.99it/s][wav @ 0x2d1ace0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 39%|###8      | 1616/4180 [01:01<02:59, 14.31it/s][wav @ 0x2d1ace0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 39%|###8      | 1630/4180 [01:01<02:27, 17.33it/s][wav @ 0x2d1ace0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 39%|###9      | 1640/4180 [01:02<02:14, 18.84it/s][wav @ 0x2d1b560] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 39%|###9      | 1647/4180 [01:02<02:13, 18.98it/s][wav @ 0x2d1bc80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 40%|###9      | 1657/4180 [01:03<02:02, 20.52it/s][wav @ 0x2d1bc80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 40%|###9      | 1660/4180 [01:03<03:07, 13.41it/s][wav @ 0x2d1cd20] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 40%|###9      | 1663/4180 [01:03<03:41, 11.34it/s][wav @ 0x2d1cd20] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 40%|###9      | 1667/4180 [01:04<03:46, 11.09it/s][wav @ 0x2d1cd20] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 40%|####      | 1678/4180 [01:04<03:03, 13.63it/s][wav @ 0x2d1c4c0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 40%|####      | 1688/4180 [01:05<02:36, 15.90it/s][wav @ 0x2d1c4c0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 41%|####      | 1702/4180 [01:05<02:09, 19.10it/s][wav @ 0x2d1c4c0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 41%|####      | 1712/4180 [01:05<02:01, 20.31it/s][wav @ 0x2d1c4c0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 41%|####1     | 1717/4180 [01:06<02:22, 17.34it/s][wav @ 0x2d1c4c0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 41%|####1     | 1727/4180 [01:06<02:08, 19.06it/s][wav @ 0x2d1c4c0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 42%|####1     | 1737/4180 [01:07<01:57, 20.75it/s][wav @ 0x2d1c4c0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 42%|####1     | 1745/4180 [01:07<01:57, 20.71it/s][wav @ 0x2d1c4c0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 42%|####1     | 1754/4180 [01:07<01:51, 21.72it/s][wav @ 0x2d1c4c0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 42%|####2     | 1766/4180 [01:08<01:41, 23.70it/s][wav @ 0x2d1c4c0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 42%|####2     | 1772/4180 [01:08<02:02, 19.71it/s][wav @ 0x2d1c4c0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 43%|####2     | 1782/4180 [01:08<01:54, 21.03it/s][wav @ 0x2d1c4c0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 43%|####2     | 1794/4180 [01:09<01:41, 23.43it/s][wav @ 0x2d1c4c0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 43%|####3     | 1799/4180 [01:09<02:07, 18.60it/s][wav @ 0x2d1c4c0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 43%|####3     | 1813/4180 [01:10<01:49, 21.62it/s][wav @ 0x2d1c4c0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 44%|####3     | 1819/4180 [01:10<02:06, 18.61it/s][wav @ 0x2d21560] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 44%|####3     | 1824/4180 [01:11<02:26, 16.06it/s][wav @ 0x2d21560] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 44%|####3     | 1839/4180 [01:11<02:01, 19.27it/s][wav @ 0x2d21560] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 44%|####4     | 1855/4180 [01:11<01:47, 21.60it/s][wav @ 0x2d21560] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 45%|####4     | 1864/4180 [01:12<01:48, 21.38it/s][wav @ 0x2d21560] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 45%|####4     | 1874/4180 [01:12<01:41, 22.65it/s][wav @ 0x2d21560] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 45%|####5     | 1895/4180 [01:13<01:23, 27.23it/s][wav @ 0x2d21560] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 46%|####5     | 1910/4180 [01:13<01:14, 30.35it/s][wav @ 0x2d21560] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 46%|####5     | 1915/4180 [01:13<01:46, 21.35it/s][wav @ 0x2d21560] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 46%|####5     | 1920/4180 [01:14<02:05, 18.01it/s][wav @ 0x2d23d00] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 46%|####6     | 1925/4180 [01:14<02:17, 16.40it/s][wav @ 0x2d24500] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 46%|####6     | 1936/4180 [01:15<01:58, 18.97it/s][wav @ 0x2d24500] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 47%|####7     | 1965/4180 [01:15<01:30, 24.56it/s][wav @ 0x2d24500] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 47%|####7     | 1971/4180 [01:15<01:48, 20.30it/s][wav @ 0x2d256a0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 47%|####7     | 1975/4180 [01:16<02:21, 15.59it/s][wav @ 0x2d256a0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 47%|####7     | 1978/4180 [01:16<03:09, 11.63it/s][wav @ 0x2d256a0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 48%|####7     | 1996/4180 [01:17<02:25, 15.03it/s][wav @ 0x2d256a0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 48%|####7     | 2001/4180 [01:17<02:33, 14.20it/s][wav @ 0x2d26100] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 48%|####8     | 2012/4180 [01:17<02:08, 16.82it/s][wav @ 0x2d26100] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 48%|####8     | 2020/4180 [01:18<02:01, 17.77it/s][wav @ 0x2d26100] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 48%|####8     | 2024/4180 [01:18<02:26, 14.72it/s][wav @ 0x2d26100] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 49%|####8     | 2028/4180 [01:18<02:42, 13.20it/s][wav @ 0x2d26100] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 49%|####8     | 2037/4180 [01:19<02:19, 15.35it/s][wav @ 0x2d26100] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 49%|####8     | 2047/4180 [01:19<02:00, 17.65it/s][wav @ 0x2d26100] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 49%|####9     | 2050/4180 [01:20<02:42, 13.10it/s][wav @ 0x2d26100] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 50%|####9     | 2085/4180 [01:20<01:59, 17.51it/s][wav @ 0x2d26100] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 50%|#####     | 2094/4180 [01:20<01:51, 18.63it/s][wav @ 0x2d26100] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 50%|#####     | 2099/4180 [01:21<02:05, 16.57it/s][wav @ 0x2d26100] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 50%|#####     | 2107/4180 [01:21<02:00, 17.25it/s][wav @ 0x2d28c40] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 51%|#####     | 2117/4180 [01:22<01:48, 19.01it/s][wav @ 0x2d28c40] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 51%|#####     | 2125/4180 [01:22<01:49, 18.85it/s][wav @ 0x2d29be0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 51%|#####1    | 2138/4180 [01:22<01:35, 21.45it/s][wav @ 0x2d29be0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 51%|#####1    | 2147/4180 [01:23<01:34, 21.55it/s][wav @ 0x2d29be0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 52%|#####1    | 2158/4180 [01:23<01:26, 23.28it/s][wav @ 0x2d29be0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 52%|#####1    | 2168/4180 [01:24<01:24, 23.95it/s][wav @ 0x2d2aac0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 52%|#####2    | 2181/4180 [01:24<01:16, 26.29it/s][wav @ 0x2d2b2c0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 52%|#####2    | 2189/4180 [01:24<01:22, 24.06it/s][wav @ 0x2d2b2c0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 53%|#####3    | 2221/4180 [01:25<01:04, 30.53it/s][wav @ 0x2d2b2c0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 53%|#####3    | 2230/4180 [01:25<01:15, 25.81it/s][wav @ 0x2d2bce0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 54%|#####3    | 2238/4180 [01:26<01:20, 24.23it/s][wav @ 0x2d2bce0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 54%|#####3    | 2242/4180 [01:26<01:51, 17.39it/s][wav @ 0x2d2bce0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 54%|#####3    | 2254/4180 [01:26<01:37, 19.71it/s][wav @ 0x2d2bce0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 54%|#####4    | 2269/4180 [01:27<01:23, 22.89it/s][wav @ 0x2d2bce0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 55%|#####4    | 2284/4180 [01:27<01:12, 26.02it/s][wav @ 0x2d2d300] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 55%|#####4    | 2290/4180 [01:28<01:27, 21.61it/s][wav @ 0x2d2d300] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 55%|#####4    | 2294/4180 [01:28<01:59, 15.82it/s][wav @ 0x2d2d300] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 55%|#####5    | 2306/4180 [01:28<01:42, 18.34it/s][wav @ 0x2d2e840] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 56%|#####5    | 2322/4180 [01:29<01:25, 21.81it/s][wav @ 0x2d2f340] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 56%|#####5    | 2339/4180 [01:29<01:16, 24.15it/s][wav @ 0x2d2f340] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 56%|#####6    | 2353/4180 [01:30<01:08, 26.51it/s][wav @ 0x2d2f340] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 56%|#####6    | 2357/4180 [01:30<01:45, 17.36it/s][wav @ 0x2d30020] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 57%|#####6    | 2371/4180 [01:31<01:28, 20.36it/s][wav @ 0x2d30020] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 57%|#####6    | 2381/4180 [01:31<01:24, 21.31it/s][wav @ 0x2d30020] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 57%|#####7    | 2394/4180 [01:31<01:14, 24.05it/s][wav @ 0x2d30020] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 58%|#####7    | 2418/4180 [01:32<01:00, 29.26it/s][wav @ 0x2d31380] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 58%|#####8    | 2425/4180 [01:32<01:13, 23.75it/s][wav @ 0x2d36760] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 58%|#####8    | 2436/4180 [01:34<02:30, 11.59it/s][wav @ 0x2d37180] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 58%|#####8    | 2445/4180 [01:35<02:08, 13.54it/s][wav @ 0x2d37180] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 59%|#####8    | 2450/4180 [01:35<02:09, 13.31it/s][wav @ 0x2d37bc0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 59%|#####8    | 2460/4180 [01:36<01:51, 15.46it/s][wav @ 0x2d37bc0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 59%|#####9    | 2474/4180 [01:36<01:30, 18.77it/s][wav @ 0x2d37bc0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 60%|#####9    | 2488/4180 [01:36<01:16, 22.01it/s][wav @ 0x2d37bc0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 60%|#####9    | 2492/4180 [01:37<01:40, 16.81it/s][wav @ 0x2d37bc0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 60%|######    | 2522/4180 [01:37<01:15, 22.07it/s][wav @ 0x2d37bc0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 61%|######    | 2534/4180 [01:37<01:07, 24.46it/s][wav @ 0x2d3a1c0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 61%|######    | 2543/4180 [01:38<01:08, 23.96it/s][wav @ 0x2d3a1c0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 61%|######    | 2548/4180 [01:38<01:25, 19.18it/s][wav @ 0x2d3ac40] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 61%|######1   | 2553/4180 [01:39<01:36, 16.92it/s][wav @ 0x2d3ac40] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 62%|######1   | 2577/4180 [01:39<01:14, 21.57it/s][wav @ 0x2d3ac40] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 62%|######2   | 2597/4180 [01:39<01:00, 25.97it/s][wav @ 0x2d3ac40] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 62%|######2   | 2601/4180 [01:40<01:47, 14.64it/s][wav @ 0x2d3ac40] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 62%|######2   | 2611/4180 [01:40<01:36, 16.32it/s][wav @ 0x2d3ac40] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 63%|######2   | 2628/4180 [01:41<01:18, 19.87it/s][wav @ 0x2d3b660] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 63%|######2   | 2633/4180 [01:41<01:33, 16.56it/s][wav @ 0x2d3b660] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 63%|######3   | 2637/4180 [01:42<01:50, 14.01it/s][wav @ 0x2d3b660] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 63%|######3   | 2648/4180 [01:42<01:31, 16.70it/s][wav @ 0x2d3b660] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 64%|######3   | 2658/4180 [01:42<01:21, 18.63it/s][wav @ 0x2d3b660] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 64%|######3   | 2664/4180 [01:43<01:25, 17.78it/s][wav @ 0x2d3b660] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 64%|######3   | 2667/4180 [01:43<02:04, 12.18it/s][wav @ 0x2d3b660] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 64%|######4   | 2680/4180 [01:44<01:41, 14.77it/s][wav @ 0x2d3d820] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 64%|######4   | 2695/4180 [01:44<01:22, 18.06it/s][wav @ 0x2d3e8c0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 65%|######4   | 2705/4180 [01:46<02:47,  8.83it/s][wav @ 0x2d3f2e0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 65%|######4   | 2715/4180 [01:47<02:13, 10.94it/s][wav @ 0x2d3f2e0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 65%|######5   | 2719/4180 [01:47<02:13, 10.95it/s][wav @ 0x2d3f2e0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 65%|######5   | 2726/4180 [01:48<01:56, 12.48it/s][wav @ 0x2d3f2e0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 65%|######5   | 2729/4180 [01:48<02:16, 10.67it/s][wav @ 0x2d401a0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 65%|######5   | 2733/4180 [01:48<02:19, 10.40it/s][wav @ 0x2d401a0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 66%|######5   | 2747/4180 [01:49<01:50, 12.99it/s][wav @ 0x2d401a0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 66%|######5   | 2757/4180 [01:49<01:33, 15.16it/s][wav @ 0x2d401a0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 66%|######6   | 2773/4180 [01:50<01:15, 18.66it/s][wav @ 0x2d41360] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 67%|######6   | 2790/4180 [01:50<01:01, 22.49it/s][wav @ 0x2d41360] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 67%|######6   | 2796/4180 [01:50<01:11, 19.46it/s][wav @ 0x2d41360] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 67%|######7   | 2802/4180 [01:51<01:18, 17.50it/s][wav @ 0x2d41360] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 67%|######7   | 2820/4180 [01:51<01:03, 21.28it/s][wav @ 0x2d41360] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 68%|######7   | 2831/4180 [01:52<00:59, 22.73it/s][wav @ 0x2d41360] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 68%|######7   | 2838/4180 [01:52<01:04, 20.94it/s][wav @ 0x2d41360] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 68%|######8   | 2854/4180 [01:52<00:54, 24.48it/s][wav @ 0x2d41360] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 69%|######8   | 2884/4180 [01:53<00:42, 30.61it/s][wav @ 0x2d41360] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 69%|######9   | 2895/4180 [01:53<00:42, 29.96it/s][wav @ 0x2d41360] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 69%|######9   | 2901/4180 [01:54<00:56, 22.81it/s][wav @ 0x2d41360] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 70%|######9   | 2911/4180 [01:54<00:53, 23.87it/s][wav @ 0x2d41360] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 70%|######9   | 2923/4180 [01:54<00:48, 25.84it/s][wav @ 0x2d41360] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 70%|#######   | 2935/4180 [01:55<00:46, 27.00it/s][wav @ 0x2d41360] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 70%|#######   | 2942/4180 [01:55<00:52, 23.77it/s][wav @ 0x2d41360] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 71%|#######   | 2953/4180 [01:56<00:49, 24.60it/s][wav @ 0x2d41360] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 71%|#######   | 2956/4180 [01:56<01:27, 14.00it/s][wav @ 0x2d41360] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 71%|#######   | 2967/4180 [01:56<01:15, 16.09it/s][wav @ 0x2d41360] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 71%|#######1  | 2971/4180 [01:57<01:29, 13.46it/s][wav @ 0x2d41360] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 71%|#######1  | 2983/4180 [01:57<01:15, 15.80it/s][wav @ 0x2d41360] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 72%|#######1  | 2996/4180 [01:58<01:02, 18.90it/s][wav @ 0x2d41360] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 72%|#######1  | 3005/4180 [01:58<01:03, 18.62it/s][wav @ 0x2d41360] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 72%|#######2  | 3011/4180 [01:59<01:07, 17.22it/s][wav @ 0x2d41360] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 73%|#######2  | 3034/4180 [01:59<00:53, 21.32it/s][wav @ 0x2d41360] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 73%|#######2  | 3038/4180 [01:59<01:10, 16.09it/s][wav @ 0x2d41360] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 73%|#######2  | 3048/4180 [02:00<01:02, 18.00it/s][wav @ 0x2d41360] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 73%|#######3  | 3065/4180 [02:00<00:50, 21.96it/s][wav @ 0x2d41360] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 73%|#######3  | 3072/4180 [02:01<00:53, 20.58it/s][wav @ 0x2d41360] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 74%|#######3  | 3081/4180 [02:01<00:52, 20.74it/s][wav @ 0x2d41360] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 74%|#######3  | 3088/4180 [02:01<00:55, 19.56it/s][wav @ 0x2d41360] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 74%|#######4  | 3100/4180 [02:02<00:49, 21.98it/s][wav @ 0x2d41360] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 75%|#######4  | 3117/4180 [02:02<00:41, 25.73it/s][wav @ 0x2d41360] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 75%|#######4  | 3134/4180 [02:03<00:35, 29.57it/s][wav @ 0x2d41360] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 75%|#######5  | 3138/4180 [02:03<00:55, 18.64it/s][wav @ 0x2d41360] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 75%|#######5  | 3148/4180 [02:03<00:51, 20.03it/s][wav @ 0x2d41360] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 75%|#######5  | 3155/4180 [02:04<00:53, 19.29it/s][wav @ 0x2d41360] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 76%|#######5  | 3174/4180 [02:04<00:42, 23.49it/s][wav @ 0x2d41360] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 76%|#######6  | 3184/4180 [02:05<00:41, 24.00it/s][wav @ 0x2d5d520] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 76%|#######6  | 3187/4180 [02:05<01:10, 14.03it/s][wav @ 0x2d5d6c0] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 76%|#######6  | 3197/4180 [02:05<01:00, 16.18it/s][wav @ 0x2d5d520] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 77%|#######6  | 3205/4180 [02:06<00:57, 17.10it/s][wav @ 0x2d5f500] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 77%|#######6  | 3217/4180 [02:06<00:48, 19.74it/s][wav @ 0x2d5f500] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 77%|#######7  | 3229/4180 [02:07<00:43, 21.90it/s][wav @ 0x2d5f500] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 78%|#######7  | 3241/4180 [02:07<00:39, 23.88it/s][wav @ 0x2d5f500] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 78%|#######7  | 3254/4180 [02:07<00:36, 25.64it/s][wav @ 0x2d5f500] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 78%|#######8  | 3272/4180 [02:08<00:30, 29.73it/s][wav @ 0x2d5f500] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 78%|#######8  | 3279/4180 [02:08<00:36, 24.44it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 79%|#######8  | 3302/4180 [02:09<00:29, 29.54it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 79%|#######9  | 3306/4180 [02:09<00:47, 18.27it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 79%|#######9  | 3309/4180 [02:09<01:09, 12.61it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 79%|#######9  | 3315/4180 [02:10<01:05, 13.30it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 79%|#######9  | 3323/4180 [02:10<00:57, 15.02it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 80%|#######9  | 3342/4180 [02:11<00:44, 18.92it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 80%|########  | 3350/4180 [02:11<00:42, 19.49it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 80%|########  | 3358/4180 [02:11<00:41, 19.61it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 81%|########  | 3377/4180 [02:12<00:33, 24.00it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 81%|########  | 3381/4180 [02:12<00:46, 17.18it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 81%|########1 | 3392/4180 [02:13<00:40, 19.57it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 81%|########1 | 3395/4180 [02:13<00:57, 13.74it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 81%|########1 | 3399/4180 [02:13<01:03, 12.34it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 82%|########1 | 3409/4180 [02:14<00:52, 14.60it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 82%|########1 | 3419/4180 [02:14<00:45, 16.71it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 82%|########1 | 3424/4180 [02:15<00:49, 15.36it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 82%|########2 | 3436/4180 [02:15<00:40, 18.28it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 83%|########2 | 3459/4180 [02:15<00:31, 23.01it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 83%|########3 | 3472/4180 [02:16<00:27, 25.61it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 83%|########3 | 3484/4180 [02:16<00:26, 26.69it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 83%|########3 | 3488/4180 [02:16<00:36, 18.78it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 84%|########3 | 3505/4180 [02:17<00:29, 22.70it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 84%|########4 | 3525/4180 [02:17<00:24, 26.39it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 85%|########4 | 3543/4180 [02:18<00:21, 29.98it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 85%|########4 | 3547/4180 [02:18<00:34, 18.11it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 85%|########5 | 3555/4180 [02:19<00:33, 18.54it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 85%|########5 | 3562/4180 [02:19<00:34, 18.06it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 85%|########5 | 3565/4180 [02:19<00:47, 12.83it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 86%|########5 | 3577/4180 [02:20<00:39, 15.41it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 86%|########5 | 3582/4180 [02:20<00:40, 14.71it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 86%|########5 | 3589/4180 [02:21<00:38, 15.44it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 86%|########6 | 3615/4180 [02:21<00:28, 19.85it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 87%|########6 | 3624/4180 [02:21<00:26, 20.79it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 87%|########6 | 3631/4180 [02:22<00:27, 19.88it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 87%|########7 | 3640/4180 [02:22<00:26, 20.71it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 87%|########7 | 3647/4180 [02:23<00:27, 19.10it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 88%|########7 | 3667/4180 [02:23<00:21, 23.67it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 88%|########7 | 3677/4180 [02:23<00:20, 24.45it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 88%|########8 | 3686/4180 [02:24<00:20, 24.14it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 88%|########8 | 3692/4180 [02:24<00:23, 20.94it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 89%|########8 | 3703/4180 [02:24<00:20, 22.87it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 89%|########8 | 3707/4180 [02:25<00:29, 15.90it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 89%|########8 | 3710/4180 [02:25<00:38, 12.06it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 89%|########9 | 3725/4180 [02:26<00:29, 15.20it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 89%|########9 | 3730/4180 [02:26<00:31, 14.33it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 90%|########9 | 3751/4180 [02:26<00:23, 18.53it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+[wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 90%|########9 | 3755/4180 [02:27<00:43,  9.66it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 90%|######### | 3781/4180 [02:28<00:30, 13.04it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 91%|######### | 3793/4180 [02:28<00:24, 15.85it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 91%|######### | 3799/4180 [02:28<00:23, 15.99it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 91%|#########1| 3804/4180 [02:29<00:25, 15.02it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 91%|#########1| 3816/4180 [02:29<00:20, 17.59it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 92%|#########1| 3831/4180 [02:30<00:16, 20.73it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 92%|#########1| 3836/4180 [02:30<00:19, 17.95it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 92%|#########2| 3846/4180 [02:30<00:16, 19.75it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 93%|#########2| 3869/4180 [02:31<00:12, 24.55it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 93%|#########3| 3889/4180 [02:31<00:10, 28.74it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 93%|#########3| 3898/4180 [02:32<00:10, 26.49it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 94%|#########3| 3911/4180 [02:32<00:09, 28.35it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 94%|#########3| 3918/4180 [02:32<00:10, 24.48it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 94%|#########4| 3935/4180 [02:33<00:08, 27.96it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 94%|#########4| 3942/4180 [02:33<00:10, 23.62it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 95%|#########4| 3952/4180 [02:34<00:09, 23.49it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 95%|#########4| 3957/4180 [02:34<00:12, 18.56it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 95%|#########5| 3972/4180 [02:34<00:09, 21.84it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 95%|#########5| 3990/4180 [02:35<00:07, 25.78it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 96%|#########5| 4009/4180 [02:35<00:05, 29.49it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 96%|#########6| 4016/4180 [02:36<00:06, 24.68it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 96%|#########6| 4021/4180 [02:36<00:08, 19.66it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 97%|#########6| 4039/4180 [02:36<00:05, 23.61it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 97%|#########6| 4044/4180 [02:37<00:07, 18.76it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 97%|#########6| 4048/4180 [02:37<00:08, 15.03it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 97%|#########6| 4052/4180 [02:38<00:09, 13.23it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 97%|#########7| 4058/4180 [02:38<00:08, 13.86it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 97%|#########7| 4070/4180 [02:38<00:06, 16.64it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 98%|#########7| 4091/4180 [02:39<00:04, 21.17it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 98%|#########8| 4115/4180 [02:39<00:02, 26.57it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 99%|#########8| 4125/4180 [02:39<00:02, 26.29it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 99%|#########8| 4138/4180 [02:40<00:01, 28.01it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 99%|#########9| 4142/4180 [02:40<00:01, 19.30it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+ 99%|#########9| 4147/4180 [02:41<00:01, 17.14it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+100%|#########9| 4165/4180 [02:41<00:00, 21.20it/s][wav @ 0x2d5cd80] Using AVStream.codec.time_base as a timebase hint to the muxer is deprecated. Set AVStream.time_base instead.
+100%|#########9| 4174/4180 [02:41<00:00, 22.00it/s]100%|##########| 4180/4180 [02:41<00:00, 25.83it/s]
