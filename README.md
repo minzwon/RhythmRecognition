@@ -1,5 +1,5 @@
 # Rhythmic Pattern Recognition with Transposed Audio
-This repository includes a preprocessing step for the rhythmic pattern recognition using convolutional neural networks. Basic concept of this approach is to transpose all the audio into a single tempo so that the network can learn **rhythmic patterns** better. `analysis.ipynb` reports some experimental results.
+This repository includes a preprocessing step for the rhythmic pattern recognition using convolutional neural networks. Basic concept of this approach is to transpose all the audio into a single tempo so that the network can learn **rhythmic patterns** better. `report.ipynb` reports some experimental results and discussion.
 
 
 ## Requirements
@@ -33,6 +33,9 @@ All the libraries except `essentia` can be installed using `pip`.
 
 - **seaborn**
 
+## Dataset
+I used extended ballroom dataset. [[link](http://anasynth.ircam.fr/home/media/ExtendedBallroom)] [[paper](https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/08/marchand-extended.pdf)]
+
 
 ## Preprocessing
 There are four steps for the preprocessing.
@@ -58,7 +61,7 @@ Now you can train your network with transposed audio!
 
 Below describes the detail of `\_2\_transpose.py`. I did not use time-stretching because it changes the timbre of original audio. Instead, I hypothesized that samples around beat onsets have more important information.
 
-![Image](./preprocessing/trp.png)
+![Image](./figures/trp.png)
 
 
 
