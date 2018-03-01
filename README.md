@@ -73,5 +73,24 @@ For the comparison, I testified a simple _vgg_-like CNN model.
 
 - a model with transposed spectrograms: `RhythmRecognition/training/spec_minz`
 
-You have to modify the spectrogram path in `fit.py`. 
+You have to modify the spectrogram path in `fit.py`.
 
+Start training `. run.sh` 
+
+## Time-stretching
+To follow the **Experiment I** and **Experiment II** in `report.ipynb`, step 5-7 of preprocessing are needed.
+
+- **\_5\_fool.py** processes time-stretching
+- **\_6\_fool_transpose.py** transposes time-stretched audio files into a single tempo using proposed preprocessing method
+- **\_7\_fool_melspec.py** gets log-mel spectrograms
+
+You have to modify file paths and time-stretching rate in `_5_fool.py`. And run.
+
+```
+. 5_fool.sh
+
+. 6_fool_transpose.sh
+
+. 7_fool_melspec.sh
+
+```
