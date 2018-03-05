@@ -3,7 +3,13 @@ This repository includes a preprocessing step for the rhythmic pattern recogniti
 
 
 ## Requirements
-All the libraries except `essentia` can be installed using `pip`.
+You can use a docker image:
+
+`docker pull minzwon/dl4mir`
+
+or
+
+all the libraries except `essentia` can be installed using `pip`.
 
 - **python 2.7**
 
